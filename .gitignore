@@ -1,0 +1,7 @@
+LightDesk/bin
+*.suo
+LightDesk/obj
+packages/
+Sample/bin
+Sample/obj
+*.csproj.user
